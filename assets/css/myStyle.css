@@ -1,0 +1,17 @@
+.heading9 h5 {
+    color : #EE6400;
+    background :#FDF0E5 ;
+}
+
+.faq4-section-area .faq-auhtoir-area2 .accordion .accordion-item{
+    background: #EE6400 ;
+}
+
+.casestudy4-section-area .case-boxes-area .content-area .icons {
+    background : #EE6400;
+
+}
+
+.casestudy4-section-area .case-boxes-area:hover .content-area .icons:hover {
+    /* color: #EE6400; */
+}
